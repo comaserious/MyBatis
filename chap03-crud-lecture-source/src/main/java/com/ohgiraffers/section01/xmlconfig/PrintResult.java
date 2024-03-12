@@ -19,10 +19,11 @@ public class PrintResult {
         String errorMessage ="";
         switch(errorCode){
             case "selectList": errorMessage="메뉴 전체 조회를 실패했습니다"; break;
-            case "selecOne" : errorMessage ="메뉴 코드로 메뉴 조회를 실패했습니다"; break;
+            case "selectOne" : errorMessage ="메뉴 코드로 메뉴 조회를 실패했습니다"; break;
             case "insert" : errorMessage="메뉴 입력에 실패했습니다"; break;
             case "update": errorMessage="수정 실패"; break;
             case "delete": errorMessage="삭제 실패";break;
+
         }
 
         System.out.println(errorMessage);
