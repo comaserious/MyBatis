@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91692607-c870-4581-993c-d2c1fded231e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../chap02-scope-lifecycle-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-scope-lifecycle-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/7a40869a-d36e-4b75-aaf5-5939ba1f5a2c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7a40869a-d36e-4b75-aaf5-5939ba1f5a2c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7a40869a-d36e-4b75-aaf5-5939ba1f5a2c/storage_v2/_src_/schema/menudb.HUbDvw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +81,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Lecture/04_MyBatis/01_lecture_source/chap04-dynamic-sql-lecture-source",
+    "last_opened_file_path": "C:/Lecuture/04_mybatis/chap04-dynamic-sql-lecture-source",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
